@@ -26,7 +26,7 @@ public class AddingMachine {
     }
 
     public String toString () {
-        return history;
+        return history.toString();
     }
 
     public void clear() {
